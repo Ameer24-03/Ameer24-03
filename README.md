@@ -1,4 +1,5 @@
 Hey there! I'm Ameer, a third-year Computer Science & Engineering student at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology with a passion for coding and Machine Learning Models. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+
 **Skills & Interests:**
 
 Programming Languages: Python, C, C++, HTML, CSS, JavaScript(basic knowledge)
