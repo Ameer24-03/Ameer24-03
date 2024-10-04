@@ -2,16 +2,16 @@ Hey there! I'm Ameer, a third-year Computer Science & Engineering student at Vel
 
 **Skills & Interests:**
 
-Programming Languages: Python, C, C++, HTML, CSS, JavaScript(basic knowledge)
+* Programming Languages: Python, C, C++, HTML, CSS, JavaScript(basic knowledge)
 
-Frameworks/Libraries: Bootstrap, Matplotlib, NumPy, Pandas, Tkinter
+* Frameworks/Libraries: Bootstrap, Matplotlib, NumPy, Pandas, Tkinter
 
-Databases MySQL.
+* Databases MySQL.
 
-Data Structures & Algorithms Structuring Information for efficiency
+* Data Structures & Algorithms Structuring Information for efficiency
 
-Developer Tools Git/Github, Google Colab, VS Code
+* Developer Tools Git/Github, Google Colab, VS Code
 
-Academic Coursework Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
+* Academic Coursework Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
 
-Interests: Problem-Solving, Competitive Programming, Participating in Hackathons
+* Interests: Problem-Solving, Competitive Programming, Participating in Hackathons
